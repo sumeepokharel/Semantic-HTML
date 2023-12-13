@@ -1,6 +1,6 @@
 header {
-    background-color: rgb(255, 0, 115);
-    margin: 20;
+    background-color: rgb(0, 255, 38);
+    margin: 60px, 70px, 30px, 20px;
     padding: 0;
 
 }
@@ -8,14 +8,15 @@ header {
 body {
 
     background-color: rgb(229, 221, 240);
-    margin: 0;
+    margin: 20px, 10px, 20px, 50px;
     padding: 0;
     font-family: Arial, Helvetica, sans-serif;
 }
 
 h1,
-h2 {
-    color: rgb(166, 26, 26);
+h2 h3 {
+    color: rgb(84, 26, 166);
+    gap: 5px;
 
 }
 
@@ -23,11 +24,13 @@ p {
     color: red;
     margin: 20px;
     padding: 20px;
+    gap: 50;
 
 }
 
 ul {
-    color: blue;
+    color: black;
     padding: 0;
     margin: 0;
+    gap: 30;
 }
